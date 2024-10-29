@@ -55,3 +55,4 @@ The datasets are sourced from the Olist e-commerce platform and include:
 
 - **example.ipynb**: An example notebook, serves as template for data analysis.
 - **regression.ipynb**: An example notebook demonstrating regression analysis.
+- **classification.ipynb**: An example notebook demonstrating classification analysis.
