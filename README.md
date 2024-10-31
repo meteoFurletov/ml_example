@@ -16,8 +16,9 @@ Hello! This project serves as a practical guide to machine learning using the Br
   - `product_category_name_translation.csv`
 - **notebooks/**: Contains Jupyter notebooks for data analysis.
   - `example.ipynb`
-  - `solution.ipynb`
-
+  - `regression.ipynb`
+  - `classification.ipynb`
+  
 ## Getting Started
 
 1. **Clone the repository**:
